@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/share/php'
+let g:netrw_dirhist_2='/Users/Sravan/work/my_vagrant/m.mysmartprice.com/.vagrant'
+let g:netrw_dirhist_3='/Users/Sravan/work'
+let g:netrw_dirhist_4='/Users/Sravan/darkroom/adarkroom'
+let g:netrw_dirhist_5='/Users/Sravan/Library/Containers/com.apple.mail'
+let g:netrw_dirhist_6='/Users/Sravan/.vim'
